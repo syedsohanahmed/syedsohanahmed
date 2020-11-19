@@ -24,8 +24,7 @@ Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** a
 **Feel free to knock me**  
 
 <br />
-<br>
-<br>
+
 
 ### Languages and Tools:
 
