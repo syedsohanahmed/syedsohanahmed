@@ -1,8 +1,10 @@
 ## Hi there 👋
 ### Welcome to my profile :smiley: 
+<br>
 Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** and studied B.Sc Engineering :mortar_board: in **Computer Science and Engineering** in **Daffodil Institute of IT** at Dhaka :bangladesh:
 <br>
-
+<br>
+<br>
 ### Contact And Social 💬 Ask me about
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
