@@ -17,15 +17,15 @@ Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** a
 
 
 ## 🌟 Features 
-I'm a  :point_down:
-- :atom: Full Stack Web Developer (Django | React)
-- :iphone: Android Application Developer (Flutter)
+ :point_down:
+- :atom: Full Stack Web Developer (Laravel/Django/Node js | React)
+- :iphone: Mobile Application Developer (Flutter)
 - 🌏 Open-Source Enthusiast
-- :computer: Linux Enthusiast (Dabian Based)
-- 👾 Machine Learning Enthusiast (Traditional ML Algorithms | Computer Vision 👀 )
+- :computer: Linux Enthusiast (Kali|Manjaro|Linux Mint)
+- 👾 Machine Learning |IOT|BlockChain 👀 
 <br>
 
-## 🏃🏽‍♂️ Currently 🔭 I’m currently working on 
+## 🏃🏽‍♂️  🔭 I’m currently working on 
 
 Working on 💻
 
@@ -76,6 +76,7 @@ Working on 💻
 
 
 =============================================
+<br>
 ### 🌱 I’m currently learning ...
 
 
