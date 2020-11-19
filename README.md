@@ -5,8 +5,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
  
 <br>
 <br>
-<br>
-<br>
+
 <p align='center'>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=syedsohanahmed&show_icons=true&icon_color=118c4e&title_color=118c4e">
  
@@ -94,12 +93,6 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-
-
-
-=========================================================================
 
 
 ### ⚡ Fun fact:
