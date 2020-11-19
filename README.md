@@ -6,7 +6,7 @@ Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** a
 <br>
 
 <p align='center'>
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=syedsohanahmed">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=syedsohanahmed&show_icons=true">
  
  <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syedsohanahmed&hide_border=true&layout=compact">
 
