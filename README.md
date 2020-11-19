@@ -30,7 +30,7 @@ I'm a  :point_down:
 - 👾 Machine Learning Enthusiast (Traditional ML Algorithms | Computer Vision 👀 )
 
 
-## 🏃🏽‍♂️ Currently
+## 🏃🏽‍♂️ Currently 🔭 I’m currently working on 
 
 Working on 💻
 
@@ -53,7 +53,7 @@ Working on 💻
  <a href = "" > 🧠 Here is my Resume </a> 
 <p/>
 
-### Contact And Social
+### Contact And Social 💬 Ask me about
 **Feel free to knock me**  
 - <a href="https://dev.to/syedsohanahmed"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="5hfT's DEV Profile" height="30" width="30"></a>
 - [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social)](mailto:sohanahmed005@gmail.com)
@@ -69,13 +69,14 @@ Working on 💻
 =========================================================================
 
 
+### ⚡ Fun fact:
 
 
 
 
 
-
-
+=============================================
+### 🌱 I’m currently learning ...
 
 
 
