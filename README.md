@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Welcome to my profile :smiley: 
-Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer ** and studied B.Sc Engineering :mortar_board: in **Computer Science and Engineering** in **Daffodil Institute of IT** at Dhaka :bangladesh:
+Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** and studied B.Sc Engineering :mortar_board: in **Computer Science and Engineering** in **Daffodil Institute of IT** at Dhaka :bangladesh:
 
 
 **syedsohanahmed/syedsohanahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
