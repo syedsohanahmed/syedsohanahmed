@@ -1,17 +1,6 @@
 ## Hi there 👋
 ### Welcome to my profile :smiley: 
 Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** and studied B.Sc Engineering :mortar_board: in **Computer Science and Engineering** in **Daffodil Institute of IT** at Dhaka :bangladesh:
-
-
-<br>
-
-<p align='center'>
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=syedsohanahmed&show_icons=true&icon_color=118c4e&title_color=118c4e">
- 
- <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syedsohanahmed&hide_border=true&bg_color=30,3678d6,904e95&title_color=fff&text_color=fff&layout=compact">
-
- <p/>
- 
 <br>
 
 ### Contact And Social 💬 Ask me about
@@ -24,6 +13,17 @@ Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** a
  
 
 <br />
+
+<p align='center'>
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=syedsohanahmed&show_icons=true&icon_color=118c4e&title_color=118c4e">
+ 
+ <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syedsohanahmed&hide_border=true&bg_color=30,3678d6,904e95&title_color=fff&text_color=fff&layout=compact">
+
+ <p/>
+ 
+<br>
+
+
 
 
 ### Languages and Tools:
