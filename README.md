@@ -3,8 +3,7 @@
 Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** and studied B.Sc Engineering :mortar_board: in **Computer Science and Engineering** in **Daffodil Institute of IT** at Dhaka :bangladesh:
 
 
-**syedsohanahmed/syedsohanahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<br>
 
 <p align='center'>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=syedsohanahmed">
@@ -24,7 +23,7 @@ I'm a  :point_down:
 - 🌏 Open-Source Enthusiast
 - :computer: Linux Enthusiast (Dabian Based)
 - 👾 Machine Learning Enthusiast (Traditional ML Algorithms | Computer Vision 👀 )
-
+<br>
 
 ## 🏃🏽‍♂️ Currently 🔭 I’m currently working on 
 
