@@ -14,8 +14,8 @@ Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** a
  
 <br>
 
-### Connect with me:
-
+### Contact And Social 💬 Ask me about
+**Feel free to knock me**  
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -90,17 +90,9 @@ Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** a
 <img src="https://sfy.cx/u/pkg" alt="trackgit-views" />
 </a>
 
-### Contact And Social 💬 Ask me about
 
-**Feel free to knock me**  
-- <a href="https://dev.to/syedsohanahmed"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="5hfT's DEV Profile" height="30" width="30"></a>
-- [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social)](mailto:sohanahmed005@gmail.com)
-- [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/syedsohanahmed)
-- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/syedsohanahmed)
-- [Facebook](https://www.facebook.com/syedsohanahmed/) 
-- [GitHub](https://github.com/syedsohanahmed/) 
-- [Quora](https://www.quora.com/profile/syedsohanahmed/) 
-- [Medium](https://medium.com/@syedsohanahmed/)
+
+
 
 
 
