@@ -13,10 +13,6 @@ Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** a
 
  <p/>
  
-<a href="https://trackgit.com">
-<img src="https://sfy.cx/u/pkg" alt="trackgit-views" />
-</a>
-
 <br>
 
 
@@ -52,6 +48,11 @@ Working on 💻
 <p align='center'>
  <a href = "" > 🧠 Here is my Resume </a> 
 <p/>
+
+
+<a href="https://trackgit.com">
+<img src="https://sfy.cx/u/pkg" alt="trackgit-views" />
+</a>
 
 ### Contact And Social 💬 Ask me about
 **Feel free to knock me**  
