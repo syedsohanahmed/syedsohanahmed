@@ -43,7 +43,7 @@ Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** a
 <br>
 <br>
 
-## 🌟 Features 
+##  🏃🏽‍♂️  🔭 I’m currently working on 
  :point_down:
 - :atom: Full Stack Web Developer (Laravel/Django/Node js | React)
 - :iphone: Mobile Application Developer (Flutter)
@@ -52,9 +52,9 @@ Hey :wave: I'm ✨**Syed Sohan Ahmed**✨ working as  **Full Stack Developer** a
 - 👾 Machine Learning |IOT|BlockChain 👀 
 <br>
 
-## 🏃🏽‍♂️  🔭 I’m currently working on 
+## 🌟 🌱 I’m currently learning ...
 
-Working on 💻
+  💻
 
 - 📱 Mobile Application with Flutter <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
@@ -105,7 +105,7 @@ Working on 💻
 
 =============================================
 <br>
-### 🌱 I’m currently learning ...
+### 
 
 
 
