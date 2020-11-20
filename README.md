@@ -64,7 +64,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99791842-6e218280-2b50-11eb-918e-1d7c8d8076f7.jpg"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99793897-8941c180-2b53-11eb-8c54-122f75c8711c.png"></code>
 
-- 🤖  Artificial Intelligence and Traditional Machine Learning Algorithms
+- 🤖 **Cyber security and penetration testing**
 <br>
 
 ## 🌟 🌱 I’m currently learning ...
