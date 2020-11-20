@@ -81,11 +81,12 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 - 🤞 Native iOS Developmet in Swift & SwiftUI
 - ⌨️ Freelancing Projects
 
+<!--
 
 <p align='center'>
  <a href = "" > 🧠 See my Resume </a> 
 <p/>
-
+-->
 
 <a href="https://trackgit.com">
 <img src="https://sfy.cx/u/pkg" alt="trackgit-views" />
@@ -94,7 +95,6 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <br>
 <br>
 <br>
-<p align='center'>
 
 ### 🤝Contact And Social 💬 Ask me about
 
@@ -103,7 +103,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<p/>
+
 <br>
 <br>
 <br>
