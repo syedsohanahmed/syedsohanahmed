@@ -76,7 +76,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 
 ## 🌟 🤝 Available For : 
 
-- 🖥️ Full stack web development in Wordpress, Shopify and Laravel
+- 🖥️ Full Stack Web Development in Wordpress, Shopify and Laravel
 - :iphone: Cross Application Development(Android & iOS) in Flutter & Dart 
 - 🤞 Native iOS Developmet with Swift & Swift UI |
 - ⌨️ Freelancing Projects
