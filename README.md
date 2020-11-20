@@ -47,7 +47,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <br>
 
 
-##  🖥️ 🏽‍♂️  🔭 I’m currently working on 
+##  🖥️ 🔭 I’m currently working on 
 
  :point_down:
 
