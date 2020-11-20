@@ -68,9 +68,9 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 ## 📝 🌱 I’m currently learning  ...
 
 - :atom: MERN Stack Development (MongoDB, Express, React, Node)
-- 🌏 Backend Development with Django
+- ⚛️ Backend Development with Django
 - 👾 Machine Learning, AI, iOT & Chatbot
-- 👀 BlockChain Development
+- 💱 BlockChain Development
 - :computer: Linux Enthusiast (Kali | Manjaro | Linux Mint)
 
 
