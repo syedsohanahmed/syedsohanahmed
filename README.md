@@ -88,8 +88,8 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <p/>
 -->
 <p align='center'>
-<a href="https://trackgit.com">
-<img src="https://sfy.cx/u/pkg" alt="trackgit-views" />
+ <a href="https://trackgit.com">
+<img src="https://sfy.cx/u/xOs" alt="trackgit-views" />
 </a>
  <p/>
 
