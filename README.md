@@ -36,7 +36,6 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <img align="left" alt="SwiftUI" width="45px" src="https://user-images.githubusercontent.com/21335270/99791659-200c7f00-2b50-11eb-8018-39a2d4a86332.png" />
 <img align="left" alt="Wordpress" width="45px" src="https://user-images.githubusercontent.com/21335270/99794075-d6259800-2b53-11eb-8567-84d972c91a94.png" />
 <img align="left" alt="Laravel" width="45px" src="https://user-images.githubusercontent.com/21335270/99791842-6e218280-2b50-11eb-918e-1d7c8d8076f7.jpg" />
-<img align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
