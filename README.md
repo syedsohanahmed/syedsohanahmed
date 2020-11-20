@@ -87,14 +87,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
  <a href = "" > 🧠 See my Resume </a> 
 <p/>
 -->
-<p align='center'>
- <a href="https://trackgit.com">
-<img src="https://sfy.cx/u/xOs" alt="trackgit-views" />
-</a>
- <p/>
 
-<br>
-<br>
 <br>
 
 ### 🤝Contact And Social 💬 Ask me about
@@ -106,6 +99,14 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
+<br>
+<br>
+<p align='center'>
+ <a href="https://trackgit.com">
+<img src="https://sfy.cx/u/xOs" alt="trackgit-views" />
+</a>
+ <p/>
+
 <br>
 <br>
 
