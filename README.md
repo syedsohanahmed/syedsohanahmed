@@ -51,7 +51,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 
  :point_down:
 
-- 📱 Cross Mobile Application Development with **Flutter** and **Dart** <code><img height="30" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+- 📱🖥️ Cross Platform Application Development with **Flutter** and **Dart** <code><img height="30" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 
 - 📳Native iOS Development with **Swift** and **SwiftUI** <code><img height="30" alt="swift" src="https://user-images.githubusercontent.com/21335270/99791669-23076f80-2b50-11eb-81a6-8acdfd73f01f.png"></code>
