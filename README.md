@@ -87,10 +87,11 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
  <a href = "" > 🧠 See my Resume </a> 
 <p/>
 -->
-
+<p align='center'>
 <a href="https://trackgit.com">
 <img src="https://sfy.cx/u/pkg" alt="trackgit-views" />
 </a>
+ <p/>
 
 <br>
 <br>
