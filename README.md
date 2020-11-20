@@ -74,7 +74,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 - :computer: Linux Enthusiast (Kali | Manjaro | Linux Mint)
 
 
-## 🌟 🤝 Available For : 
+## 🌟 🤝 Available for : 
 
 - 🖥️ Full Stack Web Development in Wordpress, Shopify and Laravel
 - :iphone: Cross Application Development(Android & iOS) in Flutter & Dart 
