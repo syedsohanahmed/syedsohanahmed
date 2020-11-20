@@ -48,16 +48,10 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 
 
 ##  🏃🏽‍♂️  🔭 I’m currently working on 
+
  :point_down:
-- :atom: Full Stack Web Developer (Laravel/Django/Node js | React)
-- :iphone: Mobile Application Developer (Flutter)
-- 🌏 Open-Source Enthusiast
-- :computer: Linux Enthusiast (Kali|Manjaro|Linux Mint)
-- 👾 Machine Learning |IOT|BlockChain 👀 
-<br>
-
-## 🌟 🌱 I’m currently learning ...
-
+ 
+ 
   💻
 
 - 📱 Mobile Application with Flutter <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -66,6 +60,16 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 - 📝 Web Application with ReactJs <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 - 🤖  Artificial Intelligence and Traditional Machine Learning Algorithms
+<br>
+
+## 🌟 🌱 I’m currently learning ...
+
+- :atom: Full Stack Web Developer (Laravel/Django/Node js | React)
+- :iphone: Mobile Application Developer (Flutter)
+- 🌏 Open-Source Enthusiast
+- :computer: Linux Enthusiast (Kali|Manjaro|Linux Mint)
+- 👾 Machine Learning |IOT|BlockChain 👀 
+
 
 ## 🤝 Available For : 
 
