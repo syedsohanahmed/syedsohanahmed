@@ -51,17 +51,17 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 
  :point_down:
 
-- 📱 Cross Mobile Application Development with **Flutter** <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+- 📱 Cross Mobile Application Development with **Flutter** and **Dart** <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
 
-- 📳Native iOS Development with **Swift & SwiftUI** <code><img height="30" alt="swift" src="https://user-images.githubusercontent.com/21335270/99791669-23076f80-2b50-11eb-81a6-8acdfd73f01f.png"></code>
+- 📳Native iOS Development with **Swift** and **SwiftUI** <code><img height="30" alt="swift" src="https://user-images.githubusercontent.com/21335270/99791669-23076f80-2b50-11eb-81a6-8acdfd73f01f.png"></code>
 <code><img height="30" alt="swiftui" src="https://user-images.githubusercontent.com/21335270/99791659-200c7f00-2b50-11eb-8018-39a2d4a86332.png"></code>
 
-- 📝 Web Application Development with **Wordpress, Laravel and Shopify**  <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99794075-d6259800-2b53-11eb-8567-84d972c91a94.png"></code>
+- 📝 Web Application Development with **Wordpress**, **Laravel** and **Shopify**  <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99794075-d6259800-2b53-11eb-8567-84d972c91a94.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99791842-6e218280-2b50-11eb-918e-1d7c8d8076f7.jpg"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99793897-8941c180-2b53-11eb-8c54-122f75c8711c.png"></code>
 
-- 🤖 **Cyber security and penetration testing** <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795095-6ca68900-2b55-11eb-824c-0d03af314873.png"></code>
+- 🤖 **Cyber security** and **penetration testing** <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795095-6ca68900-2b55-11eb-824c-0d03af314873.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795099-6e704c80-2b55-11eb-8126-83fdbb1daa48.png"></code>
 <br>
 
