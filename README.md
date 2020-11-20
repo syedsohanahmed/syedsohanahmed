@@ -57,7 +57,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 - 📳Native iOS Development with **Swift** and **SwiftUI** <code><img height="30" alt="swift" src="https://user-images.githubusercontent.com/21335270/99791669-23076f80-2b50-11eb-81a6-8acdfd73f01f.png"></code>
 <code><img height="30" alt="swiftui" src="https://user-images.githubusercontent.com/21335270/99791659-200c7f00-2b50-11eb-8018-39a2d4a86332.png"></code>
 
-- 📝 Web Application Development with **Wordpress**, **Laravel** and **Shopify**  <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99794075-d6259800-2b53-11eb-8567-84d972c91a94.png"></code>
+- 🌏 Web Application Development with **Wordpress**, **Laravel** and **Shopify**  <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99794075-d6259800-2b53-11eb-8567-84d972c91a94.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99791842-6e218280-2b50-11eb-918e-1d7c8d8076f7.jpg"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99793897-8941c180-2b53-11eb-8c54-122f75c8711c.png"></code>
 
@@ -80,7 +80,8 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 - 📱 Cross Application Development(Android & iOS) in Flutter & Dart 
 - 👽 Machine Learning Research | Paper 
 - 🤞 Native iOS Developmet with Swift & Swift UI |
-- ⌨️ Freelancing Projects 
+- ⌨️ Freelancing Projects
+📝
 
 <p align='center'>
  <a href = "" > 🧠 Here is my Resume </a> 
