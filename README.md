@@ -65,23 +65,22 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795099-6e704c80-2b55-11eb-8126-83fdbb1daa48.png"></code>
 <br>
 
-## 🌟 🌱 I’m currently learning ...
+## 🌟 🌱 I’m currently learning 📝 ...
 
-- :atom: Full Stack Web Developer (Laravel/Django/Node js | React)
-- :iphone: Mobile Application Developer (Flutter)
-- 🌏 Open-Source Enthusiast
+- :atom: MERN Stack Development (MongoDB, Express, React, Node)
+- 🌏 Backend Development with Django
+- 👾 Machine Learning, AI, iOT & Chatbot
+- 👀 BlockChain Development
 - :computer: Linux Enthusiast (Kali|Manjaro|Linux Mint)
-- 👾 Machine Learning |IOT|BlockChain 👀 
 
 
 ## 🤝 Available For : 
 
-- 🖥️ Full stack web development in Laravel, Django & ReactJs  
-- 📱 Cross Application Development(Android & iOS) in Flutter & Dart 
-- 👽 Machine Learning Research | Paper 
+- 🖥️ Full stack web development in Wordpress, Shopify and Laravel
+- :iphone: Cross Application Development(Android & iOS) in Flutter & Dart 
 - 🤞 Native iOS Developmet with Swift & Swift UI |
 - ⌨️ Freelancing Projects
-📝
+
 
 <p align='center'>
  <a href = "" > 🧠 Here is my Resume </a> 
