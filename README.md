@@ -106,20 +106,9 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <br>
 <br>
 <br>
+
+<!--
 ### ⚡ Fun fact:
-
-
-
-
-
-=============================================
-<br>
-### 
-
-
-
-
-
 
 Here are some ideas to get you started:
 
@@ -131,7 +120,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ -->
 
 
 
