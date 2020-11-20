@@ -50,9 +50,6 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 ##  🏃🏽‍♂️  🔭 I’m currently working on 
 
  :point_down:
- 
- 
-  💻
 
 - 📱 Cross Mobile Application Development with **Flutter** <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
@@ -64,7 +61,8 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99791842-6e218280-2b50-11eb-918e-1d7c8d8076f7.jpg"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99793897-8941c180-2b53-11eb-8c54-122f75c8711c.png"></code>
 
-- 🤖 **Cyber security and penetration testing**
+- 🤖 **Cyber security and penetration testing** <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795095-6ca68900-2b55-11eb-824c-0d03af314873.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795099-6e704c80-2b55-11eb-8126-83fdbb1daa48.png"></code>
 <br>
 
 ## 🌟 🌱 I’m currently learning ...
