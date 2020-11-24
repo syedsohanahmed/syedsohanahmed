@@ -102,11 +102,12 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <br>
 <br>
 <br>
+<b>
 <p align='center'>
- <a href="https://trackgit.com">
-<img src="https://sfy.cx/u/xOs" alt="trackgit-views" />
+ **Thank You**
 </a>
  <p/>
+ </b>
 
 <br>
 <br>
