@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="syedsohanahmed"><a class="LI-simple-link" href='https://bd.linkedin.com/in/syedsohanahmed?trk=profile-badge'>Syed Sohan Ahmed</a></div>
 
 
 [website]: https://syedsohanahmed.com/
