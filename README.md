@@ -71,7 +71,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 - ⚛️ Backend Development with Django
 - 👾 Machine Learning, AI, iOT & Chatbot
 - 💱 BlockChain Development
-- :computer: Linux Enthusiast (Kali | Manjaro | Linux Mint)
+- :computer: Linux Enthusiast (Kali | Parrot OS | Manjaro | Linux Mint)
 
 
 ## 🌟 🤝 Available for : 
